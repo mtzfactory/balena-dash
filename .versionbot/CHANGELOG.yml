@@ -1,4 +1,16 @@
 - commits:
+    - subject: Add support for x64 devices
+      hash: 85abb92d008fde522ecf3eecd64561a8ed4d7bb5
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Rahul Thakoor <rahul@balena.io>
+        signed-off-by: Rahul Thakoor <rahul@balena.io>
+      author: Rahul Thakoor
+  version: 0.9.0
+  date: 2020-04-07T10:10:27.456Z
+- commits:
     - subject: Added GPU mem warning for WPE
       hash: 8922f806e584f25784dbff225da9359a5ae38caa
       body: ''
